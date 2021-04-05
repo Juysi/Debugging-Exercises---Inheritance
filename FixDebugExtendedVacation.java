@@ -1,4 +1,4 @@
-public class DebugExtendedVacation isChiddOf DebugVacation
+public class DebugExtendedVacation extends DebugVacation
 {
    public FixDebugExtendedVacation
    {
