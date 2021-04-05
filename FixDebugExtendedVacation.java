@@ -1,6 +1,6 @@
-public class FixDebugExtendedVacation extends DebugVacation
+public class DebugExtendedVacation extends DebugVacation
 {
-   public FixDebugExtendedVacation
+   public DebugExtendedVacation
    {
 	   public DebugExtendedVacation()
 	   {
